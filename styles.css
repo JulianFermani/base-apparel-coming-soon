@@ -1,0 +1,17 @@
+
+body{
+  font-family: 'Josefin Sans', sans-serif  !important;
+}
+
+.display-5{
+  letter-spacing: 0.3em;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
